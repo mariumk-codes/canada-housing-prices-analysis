@@ -1,2 +1,3 @@
 # canada-housing-prices-analysis
-Exploratory analysis on housing prices in Canada. 
+
+This project is an exploratory analysis on housing prices in Canada based off the dataset Canadian house prices for top cities [JEREMY LARCHER, KAGGLE]. The dataset presents housing information for the top 45 populous Canadian cities, detailing property prices, addresses, bedrooms, bathrooms, city, province, population, coordinates, and median family income. It enables analysis on housing prices relative to city demographics, property features, and geographical locations, offering insights into regional housing trends and affordability across Canada.It is important to note the dates for housing prices in Canada are from October 2023, and median family income is from 2021
